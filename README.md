@@ -13,7 +13,8 @@ This project provides a clear, concise summary of the latest Lumion updates, maj
 ### 🧠 AI Upscaler
 Boosts rendering quality automatically using AI-based image enhancement, improving fine details and textures without longer render times.
 
-<img width="1281" height="699" alt="image" src="https://github.com/user-attachments/assets/b8a63bb9-5964-4c54-aa0b-5dbb6c7f2d28" />
+<img width="1241" height="707" alt="image" src="https://github.com/user-attachments/assets/c1475ddd-672a-47c3-b3be-0d5eefbaca79" />
+
 
 ### ☁️ Lumion Cloud
 Upload, share, and review projects directly through Lumion Cloud. Perfect for client reviews and remote collaboration.
@@ -24,7 +25,7 @@ Enhanced global illumination for ray tracing — faster, smoother light bounces 
 ### ⚙️ Performance Center
 A new built-in dashboard that monitors scene complexity, memory, and GPU usage, helping optimize rendering performance.
 
-<img width="1298" height="699" alt="image" src="https://github.com/user-attachments/assets/671e88a9-bf4b-4e20-8082-97e1db5f7549" />
+<img width="1266" height="691" alt="image" src="https://github.com/user-attachments/assets/1a710496-00aa-4430-b556-2fbd2b667019" />
 
 ### 🧱 Ray Tracing 2.0
 Significant improvements to lighting accuracy, reflections, and refraction. Expanded support for glass, vegetation, and emissive materials.
